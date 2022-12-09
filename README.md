@@ -1,4 +1,8 @@
 # My_Calcul
+This calculator is developed by a team of 2 students : Mariam Lemiar and Ikram Haddouch
+
+https://github.com/Lemiar?tab=repositories
+
 ![img1](https://user-images.githubusercontent.com/115647126/206800127-fc691476-2903-4d1a-b924-46689dd5bddf.jpg)
 ![img2](https://user-images.githubusercontent.com/115647126/206800150-39c57cc5-b699-42b0-be3e-378347405326.jpg)
 ![img3](https://user-images.githubusercontent.com/115647126/206800161-300c2ade-f4b0-457d-ba81-ce42e3a1cc3d.jpg)
